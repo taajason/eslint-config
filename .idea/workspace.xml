@@ -17,15 +17,7 @@
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
 =======
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/eslint-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
     </list>
 >>>>>>> feat: 这是提交1
 >>>>>>> feat: 这是提交1
@@ -40,6 +32,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
@@ -66,6 +59,8 @@
 <<<<<<< HEAD
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
+=======
+>>>>>>> feat: 这是一个合并提交
       <file pinned="false" current-in-tab="true">
 >>>>>>> feat: 功能分支1，第一次提交
 =======
@@ -79,10 +74,34 @@
               </first_editor>
               <second_editor />
 =======
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> feat: 这是一个合并提交
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -142,6 +161,7 @@
         <option value="$PROJECT_DIR$/.editorconfig" />
         <option value="$PROJECT_DIR$/index.js" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.txt" />
       </list>
@@ -152,14 +172,22 @@
     <option name="width" value="1440" />
     <option name="height" value="821" />
 =======
+=======
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.txt" />
+>>>>>>> feat: 这是一个合并提交
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
+<<<<<<< HEAD
     <option name="height" value="810" />
 >>>>>>> feat: 这是提交1
+=======
+    <option name="height" value="821" />
+>>>>>>> feat: 这是一个合并提交
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -167,9 +195,12 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="Scope" />
 >>>>>>> feat: 这是提交1
+=======
+>>>>>>> feat: 这是一个合并提交
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,17 +213,25 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
 >>>>>>> feat: 这是提交1
+=======
+      <pane id="Scope" />
+>>>>>>> feat: 这是一个合并提交
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="editor.config.ad.shown" value="true" />
 =======
 >>>>>>> feat: 这是提交1
+=======
+    <property name="editor.config.ad.shown" value="true" />
+>>>>>>> feat: 这是一个合并提交
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,8 +263,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1573264758120" duration="205000" />
 =======
+=======
+>>>>>>> feat: 这是一个合并提交
       <workItem from="1573264758120" duration="458000" />
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
@@ -236,10 +278,14 @@
 =======
 >>>>>>> feat: 这是提交1
 >>>>>>> feat: 这是提交1
+=======
+      <workItem from="1573264758120" duration="205000" />
+>>>>>>> feat: 这是一个合并提交
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -250,6 +296,8 @@
     <option name="totallyTimeSpent" value="1813000" />
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
+=======
+>>>>>>> feat: 这是一个合并提交
     <option name="totallyTimeSpent" value="1813000" />
 >>>>>>> feat: 功能分支1，第一次提交
   </component>
@@ -262,6 +310,13 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
 >>>>>>> feat: 这是提交1
+=======
+    <option name="totallyTimeSpent" value="1560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
+    <editor active="true" />
+>>>>>>> feat: 这是一个合并提交
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,6 +342,9 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feat: 这是一个合并提交
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -294,8 +352,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 =======
 >>>>>>> feat: 这是提交1
+=======
+>>>>>>> feat: 这是一个合并提交
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -303,6 +364,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -322,6 +384,8 @@
 >>>>>>> feat: 功能分支1，第一次提交
 =======
 >>>>>>> feat: 这是提交1
+=======
+>>>>>>> feat: 这是一个合并提交
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -338,9 +402,14 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+=======
+>>>>>>> feat: 这是一个合并提交
+>>>>>>> feat: 这是一个合并提交
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -348,19 +417,33 @@
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
+<<<<<<< HEAD
 =======
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+=======
+>>>>>>> feat: 这是一个合并提交
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+<<<<<<< HEAD
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
 >>>>>>> feat: 这是提交1
+=======
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+>>>>>>> feat: 这是一个合并提交
         </state>
       </provider>
     </entry>
