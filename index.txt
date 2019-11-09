@@ -27,3 +27,5 @@ i.e. $ git push --set-upstream origin feature/2
 $ git push -f
 // 暂存列表
 $ git stash list
+// 拉取
+$ git pull --rebase
