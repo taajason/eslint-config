@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
     </list>
@@ -14,13 +15,26 @@
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
 >>>>>>> feat: 功能分支1，第一次提交
 =======
+=======
+>>>>>>> merge: 合并功能分支1
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
 =======
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
     </list>
 >>>>>>> feat: 这是提交1
+<<<<<<< HEAD
 >>>>>>> feat: 这是提交1
+=======
+=======
+    <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
+>>>>>>> merge: 合并功能分支1
+>>>>>>> merge: 合并功能分支1
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -35,6 +49,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,6 +59,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> merge: 合并功能分支1
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,6 +92,8 @@
               <second_editor />
 =======
 =======
+=======
+>>>>>>> merge: 合并功能分支1
       <file pinned="false" current-in-tab="false">
 >>>>>>> feat: 这是一个合并提交
         <entry file="file://$PROJECT_DIR$/index.js">
@@ -95,6 +114,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -106,6 +128,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.editorconfig">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,6 +148,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
@@ -149,6 +173,10 @@
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+=======
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
+>>>>>>> merge: 合并功能分支1
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -264,6 +292,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1573264758120" duration="205000" />
 =======
 =======
@@ -274,6 +303,8 @@
       <workItem from="1573264758120" duration="458000" />
 >>>>>>> feat: 功能分支1，第一次提交
 =======
+=======
+>>>>>>> merge: 合并功能分支1
       <workItem from="1573264758120" duration="458000" />
 =======
 >>>>>>> feat: 这是提交1
@@ -281,10 +312,17 @@
 =======
       <workItem from="1573264758120" duration="205000" />
 >>>>>>> feat: 这是一个合并提交
+=======
+      <workItem from="1573264758120" duration="205000" />
+=======
+      <workItem from="1573264758120" duration="458000" />
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
+>>>>>>> merge: 合并功能分支1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -298,6 +336,8 @@
 =======
 =======
 >>>>>>> feat: 这是一个合并提交
+=======
+>>>>>>> merge: 合并功能分支1
     <option name="totallyTimeSpent" value="1813000" />
 >>>>>>> feat: 功能分支1，第一次提交
   </component>
@@ -311,7 +351,12 @@
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
 >>>>>>> feat: 这是提交1
 =======
+=======
+>>>>>>> merge: 合并功能分支1
     <option name="totallyTimeSpent" value="1560000" />
+=======
+    <option name="totallyTimeSpent" value="1813000" />
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -368,6 +413,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -386,6 +432,8 @@
 >>>>>>> feat: 这是提交1
 =======
 >>>>>>> feat: 这是一个合并提交
+=======
+>>>>>>> merge: 合并功能分支1
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -409,7 +457,12 @@
 =======
 =======
 >>>>>>> feat: 这是一个合并提交
+<<<<<<< HEAD
 >>>>>>> feat: 这是一个合并提交
+=======
+=======
+>>>>>>> merge: 合并功能分支1
+>>>>>>> merge: 合并功能分支1
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -428,6 +481,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -448,8 +503,23 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> d0ffa78... feat: 功能分支1，第一次提交
+>>>>>>> merge: 合并功能分支1
   </component>
 </project>
