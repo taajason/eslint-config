@@ -10,3 +10,4 @@ $ git push -f
 // 暂存列表
 $ git stash list
 // 再来一次
+// 功能4
