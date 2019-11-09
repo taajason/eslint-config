@@ -11,3 +11,4 @@ $ git push -f
 $ git stash list
 // 功能4
 // 再来一次
+// 功能4
