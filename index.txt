@@ -5,3 +5,13 @@ $ git status
 $ git log
 // 拉取
 $ git pull --rebase
+// 创建分支
+$ git checkout -b [branchName]
+i.e. $ git checkout -b feature/2
+// 建立与远程分支的联系
+$ git push --set-upstream origin [branchName]
+i.e. $ git push --set-upstream origin feature/2
+// 强制更新远程
+$ git push -f
+// 暂存列表
+$ git stash list
