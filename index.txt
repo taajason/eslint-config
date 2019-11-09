@@ -3,3 +3,5 @@
 $ git status
 // 查看日志
 $ git log
+// 拉取
+$ git pull --rebase
