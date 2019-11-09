@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
     </list>
@@ -12,6 +13,22 @@
 =======
     <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+    <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="a6de7431-9903-4295-bc89-1ed4f95efb01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eslint-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+>>>>>>> feat: 这是提交1
+>>>>>>> feat: 这是提交1
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,10 +63,14 @@
       <file pinned="false" current-in-tab="false">
 =======
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
       <file pinned="false" current-in-tab="true">
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+<<<<<<< HEAD
+>>>>>>> feat: 这是提交1
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -57,6 +78,30 @@
                 <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
+=======
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.editorconfig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> feat: 这是提交1
             </state>
           </provider>
         </entry>
@@ -96,6 +141,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.editorconfig" />
         <option value="$PROJECT_DIR$/index.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.txt" />
       </list>
@@ -105,12 +151,25 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
+=======
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+>>>>>>> feat: 这是提交1
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> feat: 这是提交1
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,12 +181,18 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> feat: 这是提交1
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="editor.config.ad.shown" value="true" />
+=======
+>>>>>>> feat: 这是提交1
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -158,6 +223,7 @@
       <workItem from="1572839212865" duration="790000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1573264758120" duration="205000" />
 =======
       <workItem from="1573264758120" duration="458000" />
@@ -165,14 +231,22 @@
 =======
       <workItem from="1573264758120" duration="458000" />
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+      <workItem from="1573264758120" duration="458000" />
+=======
+>>>>>>> feat: 这是提交1
+>>>>>>> feat: 这是提交1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1560000" />
 =======
+=======
+>>>>>>> feat: 这是提交1
     <option name="totallyTimeSpent" value="1813000" />
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
@@ -182,6 +256,12 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="1355000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+>>>>>>> feat: 这是提交1
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -206,6 +286,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -213,6 +294,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> feat: 这是提交1
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -220,6 +303,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -236,6 +320,8 @@
 >>>>>>> d0ffa78... feat: 功能分支1，第一次提交
 =======
 >>>>>>> feat: 功能分支1，第一次提交
+=======
+>>>>>>> feat: 这是提交1
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -262,6 +348,19 @@
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+>>>>>>> feat: 这是提交1
         </state>
       </provider>
     </entry>
