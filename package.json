@@ -1,0 +1,19 @@
+{
+  "name": "wbiao-eslint-config",
+  "version": "1.0.0",
+  "description": "项目通用的eslint规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taajason/eslint-config.git"
+  },
+  "author": "tangjian@wbiao.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taajason/eslint-config/issues"
+  },
+  "homepage": "https://github.com/taajason/eslint-config#readme"
+}
