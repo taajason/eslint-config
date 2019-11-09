@@ -1,1 +1,7 @@
 我是功能分支2的代码
+// 创建分支
+$ git checkout -b [branchName]
+i.e. $ git checkout -b feature/2
+// 建立与远程分支的联系
+$ git push --set-upstream origin [branchName]
+i.e. $ git push --set-upstream origin feature/2
