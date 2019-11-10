@@ -5,3 +5,4 @@ master
 再来次
 git merge --squash之后
 提交一下远程feature/2
+提交一下feature/2
