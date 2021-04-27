@@ -4,3 +4,4 @@ master
 提交新的内容到master
 再来次
 git merge --squash之后
+提交一下远程feature/2
