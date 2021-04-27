@@ -2,4 +2,5 @@ master
 提交一下master
 提交一下feature/1
 提交新的内容到master
-再来2次
+再来次
+git merge --squash之后
